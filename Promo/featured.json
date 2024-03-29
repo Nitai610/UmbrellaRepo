@@ -3,6 +3,7 @@
         {
             "name": "Fantastic Lighting",
             "url": "https://api.beatsaver.com/playlists/id/96547/download",
+	    "quest": true,
             "image": "/promo/fanastic_lighting_banner.png"
         }
     ]
