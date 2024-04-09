@@ -4,7 +4,14 @@
             "name": "Fantastic Lighting",
             "url": "https://api.beatsaver.com/playlists/id/96547/download",
 	    "quest": true,
-            "image": "/promo/fanastic_lighting_banner.png"
+            "image": "/promo/banners/fanastic_lighting.png"
+        },
+
+        {
+            "name": "Fun and Challenging Cerret maps",
+            "url": "https://api.beatsaver.com/playlists/id/495/download",
+	    "quest": true,
+            "image": "/promo/banners/fun_and_challenging_cerret_maps.png"
         }
     ]
 }
